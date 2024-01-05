@@ -1,0 +1,12 @@
+1.git config            - Used to config file to git
+2.git init              - used to create a new git repository
+3.git clone             - used for cloning in Github
+4.git add               - used for adding changes to current stage
+5.git commit            - used to  make the change 
+6.git status            - for checking the current working directory
+7.git branch            - for createing branch in repository
+8.git pull              - Fetch changes from a remote repository and merge them into the current branch.
+
+
+
+resource : ppt given
