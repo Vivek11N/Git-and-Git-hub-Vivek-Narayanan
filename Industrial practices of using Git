@@ -1,0 +1,11 @@
+1.Small, focused code changes: Write minimal code to solve problems, enabling rapid testing and rollback if needed.
+2.Atomic commits: Make frequent, granular commits with clear messages for efficient tracking and debugging.
+3.Rebasing and merging: Maintain clean commit history with rebasing and choose merge strategies wisely.
+4.Automated pipelines: Streamline builds, tests, and deployments with CI/CD pipelines.
+5.Automated testing: Ensure code quality and prevent regressions with automated testing.
+6.Pull requests and code reviews: Foster collaboration and quality control through PRs and code reviews.
+7.Code review standards: Adhere to guidelines for design, functionality, and coding standards.
+8.Descriptive commit messages: Use clear, present-tense verbs to convey the purpose of each commit.
+
+
+resource:ppt shared
